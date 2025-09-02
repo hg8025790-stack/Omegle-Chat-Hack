@@ -1,4 +1,4 @@
-#Omegle-Chat-Hack
+#Omegle-Camara-Hack
 
 **Author**- Indrajeet Bhuyan
 
